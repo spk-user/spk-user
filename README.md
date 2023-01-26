@@ -7,3 +7,6 @@
 ## Сайт для профиля
 
 https://spk-user.github.io/
+
+<img src="http://mini.s-shot.ru/1024x768/1000/jpeg/?https://spk-user.github.io/" alt="Сайт">
+
